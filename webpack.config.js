@@ -39,6 +39,12 @@ module.exports = {
                   },
                 ],
             },
+            {
+                test: /\.(ttf)$/,
+                use: {
+                  loader: 'url-loader',
+                },
+              },
         
         ]
     },

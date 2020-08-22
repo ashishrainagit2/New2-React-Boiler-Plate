@@ -24,4 +24,8 @@ References :
 // https://www.youtube.com/watch?v=deyxI-6C2u4&t=1207s
 https://www.robinwieruch.de/minimal-react-webpack-babel-setup and related articles
 
+https://www.robinwieruch.de/webpack-font
+
 Optional : https://www.youtube.com/watch?v=TzdEpgONurw&t=846s
+
+https://www.youtube.com/watch?v=O1UGn54b0k8 for fonts
